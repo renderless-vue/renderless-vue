@@ -1,0 +1,7 @@
+{
+  "name": "@renderless-vue/renderless-vue",
+  "private": true,
+  "description": "Collection of headless components for Vue 3 using Composition API",
+  "author": "Arkadiusz 'Mole' Sygulski (arkadiusz@sygulski.pl)",
+  "license": "MIT"
+}
