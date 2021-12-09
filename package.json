@@ -3,5 +3,17 @@
   "private": true,
   "description": "Collection of headless components for Vue 3 using Composition API",
   "author": "Arkadiusz 'Mole' Sygulski (arkadiusz@sygulski.pl)",
-  "license": "MIT"
+  "contributors": [
+    "Łukasz Florczak <lukasz@florczak.dev> (https://florczak.dev)"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.20.4",
+    "vue": "^3.2.24"
+  }
 }
